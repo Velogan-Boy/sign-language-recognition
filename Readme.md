@@ -28,6 +28,5 @@ To recognize a gesture, you need to perform it in front of a camera. The applica
 ### Acknowledgements
 The pre-trained model used in this application was trained on the Tamil Sign Language Dataset, which was created by the Center for Language Technology and Computing at Anna University, Chennai. The dataset is available for research purposes at https://www.clta.in/tsl_dataset.html. The CVZone library was created by Murtaza Hassan and is available at https://github.com/codewithharry/cvzone.
  
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
  

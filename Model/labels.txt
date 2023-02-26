@@ -1,0 +1,8 @@
+0 Thanks
+1 Amma
+2 Sorry
+3 Water
+4 Good
+5 Bud
+6 Anna
+7 Akka
